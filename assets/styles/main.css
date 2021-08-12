@@ -1,0 +1,18 @@
+body {
+  line-height: 1.6;
+  background-color: #F7F7F7;
+  color: #444;
+}
+
+main {
+  margin: 2em auto;
+  max-width: 800px;
+}
+
+header {
+  border-bottom: 3px solid #444;
+}
+
+h1, h2, h3 {
+  line-height: 1.2;
+}
