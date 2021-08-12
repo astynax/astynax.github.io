@@ -7,7 +7,7 @@ title: Home
 
 Hello, I'm **Aleksei Pirogov** aka **astynax** and this is my personal page.
 
-Also you can find here:
+Also you can find me here:
 
 - [@astynax](https://github.com/astynax) on GitHub
 - [@alex_pir](https://twitter.com/alex_pir) on Twitter
