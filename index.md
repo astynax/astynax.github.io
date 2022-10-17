@@ -7,7 +7,10 @@ title: Home
 
 Hello, I'm **Aleksei Pirogov** aka **astynax** and this is my personal page.
 
-Also you can find me here:
+Online presence:
 
-- [@astynax](https://github.com/astynax) on GitHub
-- [@alex_pir](https://twitter.com/alex_pir) on Twitter
+- [@astynax](https://github.com/astynax) — GitHub
+- [@astynax](https://t.me/astynax) — Telegram
+- [@alex_pir](https://twitter.com/alex_pir) — Twitter
+
+Also I have a Telegram channel named [@brain_dump_etc](https://t.me/brain_dump_etc) and [YouTube channel](https://www.youtube.com/channel/UCXk1kxTjZwluYLyijyKVsAA) (both with content in ru/RU).
