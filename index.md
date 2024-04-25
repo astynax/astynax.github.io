@@ -7,6 +7,8 @@ title: Home
 
 Hello, I'm **Aleksei Pirogov** aka **astynax** and this is my personal page.
 
+![This is how I usually look like (photo)](/assets/images/me.jpeg)
+
 Online presence:
 
 - [Me at Linkedin](https://www.linkedin.com/in/aleksei-pirogov-81027261/)
