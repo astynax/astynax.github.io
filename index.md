@@ -20,6 +20,8 @@ Hello, I'm **Aleksei Pirogov** aka **astynax** and this is my personal page.
 
 Also I have a Telegram channel named [@brain_dump_etc](https://t.me/brain_dump_etc) and [YouTube channel](https://www.youtube.com/channel/UCXk1kxTjZwluYLyijyKVsAA) (both with content in ru/RU).
 
+[**Here is also a CV-like "about" page in Russian.**](/devrel_cv_ru.md)
+
 ### What I do
 
 - Post in my Telegram channel (see above)
