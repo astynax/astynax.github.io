@@ -13,7 +13,7 @@ Hello, I'm **Aleksei Pirogov** aka **astynax** and this is my personal page.
 
 ### Some links
 
-- [Me at Linkedin](https://www.linkedin.com/in/aleksei-pirogov-81027261/)
+- [Me at Linkedin](https://www.linkedin.com/in/aleksei-astynax-pirogov/)
 - [@astynax](https://github.com/astynax) — GitHub
 - [@astynax](https://t.me/astynax) — Telegram
 - [@alex_pir](https://twitter.com/alex_pir) — Twitter
