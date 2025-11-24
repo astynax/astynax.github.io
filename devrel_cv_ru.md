@@ -3,8 +3,6 @@ layout: titled
 title: Алексей Пирогов, Developer Advocate
 ---
 
-### Алексей Пирогов, Developer Advocate
-
 Умею разрабатывать ПО, занимаюсь этим профессионально с 2007г. Работал в Yandex, в JetBrains. Разрабатывал курсы по Python для Hexlet. Про опыт подробности можно посмотреть в [Linkedin](https://www.linkedin.com/in/aleksei-pirogov-81027261).
 
 Кроме того я
