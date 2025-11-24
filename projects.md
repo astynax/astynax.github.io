@@ -1,6 +1,6 @@
 ---
 layout: titled
-title: 'Astynax's Home: Projects'
+title: "Astynax's Home: Projects"
 ---
 
 An non-exhaustive list of projects I've made or I'm working on.

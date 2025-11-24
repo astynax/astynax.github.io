@@ -1,6 +1,6 @@
 ---
 layout: titled
-title: 'Astynax's Home: Now'
+title: "Astynax's Home: Now"
 ---
 
 - [2025-11] Playing with CGI as a platform for the "smol web" stuff.
